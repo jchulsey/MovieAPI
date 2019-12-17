@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+.status {
+	background-color:green;
+	color:black;
+	text-align:left;
+	font-size:18px;
+}
+/*
+body {
+	background-color: #fff2cc;
+}
+
+table, tr, td {
+	border-style: solid;
+	border-width: 1px;
+}
+
+.small-table {
+	width: 50%
+}
+*/
